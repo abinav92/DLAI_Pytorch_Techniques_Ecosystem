@@ -1,0 +1,61 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+.venv
+.Module1/Ex3/data.csv
+Module3/Ex1/flower_data/
+Module3/Ex1/corrupted_flower_data/
+Module4/Ex1/cifar_100/
+.venv/
+venv/
+.env/
+
+# Generic data dirs
+data/
+datasets/
+dataset/
+
+# Large archives
+*.tar
+*.tar.gz
+*.zip
+
+# Datasets
+Module4/Ex1/cifar_100/
+data/
+datasets/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual envs
+venv/
+.venv/
+.env/
+
+# Model weights / checkpoints
+*.pt
+*.pth
+*.ckpt
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Archives
+*.tar
+*.tar.gz
+*.zip
+
+# macOS junk
+.DS_Store
+**/.DS_Store
