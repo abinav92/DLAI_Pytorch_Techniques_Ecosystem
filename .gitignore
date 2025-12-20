@@ -64,3 +64,5 @@ oxford3pet_data/
 images/
 pytorch_datasets/
 tiny_fruit_and_vegetable/
+best_model_saved/
+mobilenet_weights/
