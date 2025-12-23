@@ -67,3 +67,5 @@ tiny_fruit_and_vegetable/
 best_model_saved/
 mobilenet_weights/
 bert_tokenizer_local/
+bert_model/
+glove_data/
